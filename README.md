@@ -1,12 +1,11 @@
 <!-- PROJECT TITLE -->
-<h1 align='center'id="top">  == CUBO Back-End ==  </h1>
+<h1 align='center'id="top">  == LabeCommerce Back-End ==  </h1>
 
 
 <!-- PROJECT MENU -->
 <p align="center">
   <a href="#sobre">Sobre</a> &#xa0; | &#xa0; 
   <a href="#api">API</a> &#xa0; | &#xa0;
-  <a href="#front">FRONT-END</a> &#xa0; | &#xa0;
   <a href="#tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#funciona">Funcionalidades</a> &#xa0; | &#xa0;  
 </p>
@@ -15,7 +14,7 @@
 
 <!-- PROJECT SOBRE -->
 <h2 id="sobre">:notebook: Sobre </h2>
-<p align="justify">Projeto CUBO desenvolvido em TypeScript, para atender o front que possui um formulário, uma tabela com informações percentuais de participação e um gráfico de pizza que representa essa distribuição.</p>
+<p align="justify">Projeto LabeCommerce desenvolvido em TypeScript, demonstra de forma básica o registro de produtos e compras, além de buscar por todos os produtos ou por buscar filtradas.</p>
 
 
 <!-- PROJECT POSTMAN -->
@@ -36,7 +35,11 @@ Abaixo segue o que foi utilizado na criação deste projeto:
 
 
 ###  API
-- [x] Get all users;
-- [x] Insert users informations;
+- [x] SingUp;
+- [x] Get All Users With Buy Something;
+- [x] Register Product;
+- [x] getAllProducts;
+- [x] Register Purchase;
+- [x] getAllCustomers;
   
 <a href="#top">Voltar para o topo</a>
