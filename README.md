@@ -20,13 +20,9 @@
 
 <!-- PROJECT POSTMAN -->
 <h2 id="api">:earth_americas: Link do Postman API </h2>
-<p>🔗 <a href="https://documenter.getpostman.com/view/17588210/UVeKoQA2" target="_blank"> API CUBO </a>  </p>
-<!-- <a href="https://documenter.getpostman.com/view/17588210/UVeKoQA2" onclick="return ! window.open(this.href);"> Open in a new window</a> -->
+<p>🔗 <a href="https://documenter.getpostman.com/view/17588210/UVeMGi6P" target="_blank"> API LabeCommerce </a>  </p>
+<!-- <a href="https://documenter.getpostman.com/view/17588210/UVeMGi6P" onclick="return ! window.open(this.href);"> Open in a new window</a> -->
 
-<!-- PROJECT BACK-END -->
-<h2 id="front">:earth_americas: Link do GitHub Back-End </h2>
-<p>🔗 <a href="https://github.com/TainaSoares/CUBO-FRONT" target="_blank"> FRONT-END CUBO </a>  </p>
-<!-- <a href="https://github.com/TainaSoares/CUBO-FRONT" onclick="return ! window.open(this.href);"> Open in a new window</a> -->
 
 <!-- PROJECT TECHNOLOGIES -->
 <h2 id="tecnologias"> 🛠 Tecnologias </h2>
